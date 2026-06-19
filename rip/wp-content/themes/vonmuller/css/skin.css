@@ -18,7 +18,7 @@ h1.page-title{
 }
 
 #slider_dots li{
-	background-image: url(http://localhost/wp-content/themes/vonmuller/images/night_slider_dots.png);
+	background-image: url(wp-content/themes/vonmuller/images/night_slider_dots.png);
 }
 			#nav > li > a{
 				/* font-weight: bold; */

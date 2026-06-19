@@ -133,11 +133,11 @@ div.question div.que_ico{
 	height: 16px;
 	float: left;
 	margin-left: -27px;
-	background: url(http://localhost/wp-content/themes/vonmuller/images/question_me.png) no-repeat 0 0;
+	background: url(wp-content/themes/vonmuller/images/question_me.png) no-repeat 0 0;
 }
 
 div.question.framed{
-	background: url(http://localhost/wp-content/themes/vonmuller/images/question_bg.png) repeat;
+	background: url(wp-content/themes/vonmuller/images/question_bg.png) repeat;
 	padding: 9px 12px 9px 36px;
 }
 
@@ -151,11 +151,11 @@ div.alert div.alert_ico{
 	height: 16px;
 	float: left;
 	margin-left: -27px;
-	background: url(http://localhost/wp-content/themes/vonmuller/images/alert_me.png) no-repeat 0 0;
+	background: url(wp-content/themes/vonmuller/images/alert_me.png) no-repeat 0 0;
 }
 
 div.alert.framed{
-	background: url(http://localhost/wp-content/themes/vonmuller/images/alert_bg.png) repeat;
+	background: url(wp-content/themes/vonmuller/images/alert_bg.png) repeat;
 	padding: 9px 12px 9px 36px;
 }
 
@@ -169,11 +169,11 @@ div.approved div.approved_ico{
 	height: 16px;
 	float: left;
 	margin-left: -27px;
-	background: url(http://localhost/wp-content/themes/vonmuller/images/approved_me.png) no-repeat 0 0;
+	background: url(wp-content/themes/vonmuller/images/approved_me.png) no-repeat 0 0;
 }
 
 div.approved.framed{
-	background: url(http://localhost/wp-content/themes/vonmuller/images/approved_bg.png) repeat;
+	background: url(wp-content/themes/vonmuller/images/approved_bg.png) repeat;
 	padding: 9px 12px 9px 36px;
 }
 
