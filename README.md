@@ -65,9 +65,12 @@ This repository preserves the site as archived via `wget` (see `rip/`), along wi
 
 **Key features:**
 
-- Built a fully custom WordPress theme from scratch (no page builder) — bespoke navigation, lightbox galleries (Highslide), and a Cufon-based typography system — giving the studio a distinctive, on-brand presence instead of a generic template look that competitors were using.
-- Integrated an image-watermarking plugin across the portfolio galleries, protecting the studio's wedding and event photography from unauthorized reuse — a real concern for photographers whose finished work is their product.
-- Hardened the WordPress install (Better WP Security, removal of the vulnerable `timthumb.php` script) and kept the platform on a current core version, reducing the studio's exposure to the mass WordPress exploit campaigns that targeted exactly this kind of small-business site in the mid-2010s.
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Bespoke custom theme** — a fully custom theme built from scratch (no page builder) with bespoke navigation, lightbox galleries, and a custom typography system, giving the studio a distinctive, on-brand presence instead of the generic template look competitors were using
+- **Portfolio watermarking** — image watermarking across the portfolio galleries, protecting the studio's wedding and event photography from unauthorized reuse — a real concern for photographers whose finished work is their product
+- **Hardened, secure platform** — security hardening (removal of the vulnerable `timthumb.php` script, a current core version) that reduced the studio's exposure to the mass exploit campaigns targeting exactly this kind of small-business site in the mid-2010s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
